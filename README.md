@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yanro6
 - 👀 I’m interested in playing volley-ball and video games
-- 🌱 I’m currently learning ImageJ, IJ-OpenCV and DJL Labraries
+- 🌱 I’m currently learning in informatic applied to business management.
 - 📫 How to reach me : consult my website https://yangrobin.com
 
 <!---
